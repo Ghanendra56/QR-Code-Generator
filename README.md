@@ -1,4 +1,11 @@
 # QR-Code-Generator
+## Packages
+```bash
+pip install qrcode
+```
+```bash
+pip install images
+```
 
 ```bash
 import qrcode
