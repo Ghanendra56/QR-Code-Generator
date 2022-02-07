@@ -22,3 +22,6 @@ img.save("qrcode.png")
 #QR Code Generator
 #Developed By: SyntaxError
 ```
+
+##
+Have a Nice Day
