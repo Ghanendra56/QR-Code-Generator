@@ -6,7 +6,7 @@ qr = qrcode.QRCode(
     border= 5,
 )
 
-data = "https://discord.com/users/780327720214069308"
+data = "#your  data(Link, Text, etc) here"
 qr.add_data(data)
 qr.make(fit=True)
 img = qr.make_image(fill="black", back_color="white")
