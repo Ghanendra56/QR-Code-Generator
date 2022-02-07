@@ -11,3 +11,10 @@ qr.add_data(data)
 qr.make(fit=True)
 img = qr.make_image(fill="black", back_color="white")
 img.save("qrcode.png")
+
+
+
+
+#=====Credit=====
+#QR Code Generator
+#Developed By: SyntaxError
